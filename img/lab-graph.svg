@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" font-family="Inter, Arial, sans-serif">
+<rect width="800" height="450" fill="#fff"/>
+<line x1="90" y1="306.0" x2="760" y2="306.0" stroke="#eeede8"/>
+<line x1="90" y1="242.0" x2="760" y2="242.0" stroke="#eeede8"/>
+<line x1="90" y1="178.0" x2="760" y2="178.0" stroke="#eeede8"/>
+<line x1="90" y1="114.0" x2="760" y2="114.0" stroke="#eeede8"/>
+<line x1="90" y1="50.0" x2="760" y2="50.0" stroke="#eeede8"/>
+<line x1="224.0" y1="50" x2="224.0" y2="370" stroke="#eeede8"/>
+<line x1="358.0" y1="50" x2="358.0" y2="370" stroke="#eeede8"/>
+<line x1="492.0" y1="50" x2="492.0" y2="370" stroke="#eeede8"/>
+<line x1="626.0" y1="50" x2="626.0" y2="370" stroke="#eeede8"/>
+<line x1="760.0" y1="50" x2="760.0" y2="370" stroke="#eeede8"/>
+<path d="M90 40V370H770" fill="none" stroke="#1b1c1e" stroke-width="2"/>
+<path d="M84 46L90 34L96 46M764 364L776 370L764 376" fill="none" stroke="#1b1c1e" stroke-width="2"/>
+<line x1="84" y1="370.0" x2="90" y2="370.0" stroke="#1b1c1e" stroke-width="2"/><text x="76" y="376.0" font-size="17" text-anchor="end" fill="#1b1c1e">0</text>
+<line x1="84" y1="306.0" x2="90" y2="306.0" stroke="#1b1c1e" stroke-width="2"/><text x="76" y="312.0" font-size="17" text-anchor="end" fill="#1b1c1e">1</text>
+<line x1="84" y1="242.0" x2="90" y2="242.0" stroke="#1b1c1e" stroke-width="2"/><text x="76" y="248.0" font-size="17" text-anchor="end" fill="#1b1c1e">2</text>
+<line x1="84" y1="178.0" x2="90" y2="178.0" stroke="#1b1c1e" stroke-width="2"/><text x="76" y="184.0" font-size="17" text-anchor="end" fill="#1b1c1e">3</text>
+<line x1="84" y1="114.0" x2="90" y2="114.0" stroke="#1b1c1e" stroke-width="2"/><text x="76" y="120.0" font-size="17" text-anchor="end" fill="#1b1c1e">4</text>
+<line x1="84" y1="50.0" x2="90" y2="50.0" stroke="#1b1c1e" stroke-width="2"/><text x="76" y="56.0" font-size="17" text-anchor="end" fill="#1b1c1e">5</text>
+<line x1="90.0" y1="370" x2="90.0" y2="376" stroke="#1b1c1e" stroke-width="2"/><text x="90.0" y="398" font-size="17" text-anchor="middle" fill="#1b1c1e">0</text>
+<line x1="224.0" y1="370" x2="224.0" y2="376" stroke="#1b1c1e" stroke-width="2"/><text x="224.0" y="398" font-size="17" text-anchor="middle" fill="#1b1c1e">2</text>
+<line x1="358.0" y1="370" x2="358.0" y2="376" stroke="#1b1c1e" stroke-width="2"/><text x="358.0" y="398" font-size="17" text-anchor="middle" fill="#1b1c1e">4</text>
+<line x1="492.0" y1="370" x2="492.0" y2="376" stroke="#1b1c1e" stroke-width="2"/><text x="492.0" y="398" font-size="17" text-anchor="middle" fill="#1b1c1e">6</text>
+<line x1="626.0" y1="370" x2="626.0" y2="376" stroke="#1b1c1e" stroke-width="2"/><text x="626.0" y="398" font-size="17" text-anchor="middle" fill="#1b1c1e">8</text>
+<line x1="760.0" y1="370" x2="760.0" y2="376" stroke="#1b1c1e" stroke-width="2"/><text x="760.0" y="398" font-size="17" text-anchor="middle" fill="#1b1c1e">10</text>
+<text x="104" y="30" font-size="20" font-weight="600" fill="#1b1c1e">U, В</text>
+<text x="760" y="428" font-size="20" font-weight="600" text-anchor="end" fill="#1b1c1e">t, с</text>
+<path d="M90.0 370.0 L96.7 355.6 L103.4 342.0 L110.1 329.0 L116.8 316.6 L123.5 304.9 L130.2 293.7 L136.9 283.1 L143.6 272.9 L150.3 263.3 L157.0 254.2 L163.7 245.5 L170.4 237.2 L177.1 229.3 L183.8 221.8 L190.5 214.7 L197.2 207.9 L203.9 201.4 L210.6 195.3 L217.3 189.5 L224.0 183.9 L230.7 178.6 L237.4 173.6 L244.1 168.8 L250.8 164.3 L257.5 159.9 L264.2 155.8 L270.9 151.9 L277.6 148.2 L284.3 144.7 L291.0 141.3 L297.7 138.1 L304.4 135.0 L311.1 132.1 L317.8 129.4 L324.5 126.8 L331.2 124.3 L337.9 121.9 L344.6 119.6 L351.3 117.5 L358.0 115.4 L364.7 113.5 L371.4 111.7 L378.1 109.9 L384.8 108.2 L391.5 106.6 L398.2 105.1 L404.9 103.7 L411.6 102.3 L418.3 101.0 L425.0 99.8 L431.7 98.6 L438.4 97.5 L445.1 96.4 L451.8 95.4 L458.5 94.4 L465.2 93.5 L471.9 92.6 L478.6 91.8 L485.3 91.0 L492.0 90.3 L498.7 89.5 L505.4 88.9 L512.1 88.2 L518.8 87.6 L525.5 87.0 L532.2 86.5 L538.9 85.9 L545.6 85.4 L552.3 84.9 L559.0 84.5 L565.7 84.1 L572.4 83.6 L579.1 83.3 L585.8 82.9 L592.5 82.5 L599.2 82.2 L605.9 81.9 L612.6 81.6 L619.3 81.3 L626.0 81.0 L632.7 80.7 L639.4 80.5 L646.1 80.2 L652.8 80.0 L659.5 79.8 L666.2 79.6 L672.9 79.4 L679.6 79.2 L686.3 79.0 L693.0 78.9 L699.7 78.7 L706.4 78.6 L713.1 78.4 L719.8 78.3 L726.5 78.1 L733.2 78.0 L739.9 77.9 L746.6 77.8 L753.3 77.7 L760.0 77.6" fill="none" stroke="#1e7f55" stroke-width="3"/>
+<circle cx="90.0" cy="370.0" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="157.0" cy="249.0" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="224.0" cy="187.7" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="291.0" cy="138.1" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="358.0" cy="119.9" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="425.0" cy="97.2" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="492.0" cy="92.2" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="559.0" cy="81.3" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="626.0" cy="83.6" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="693.0" cy="77.6" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<circle cx="760.0" cy="78.9" r="6" fill="#fff" stroke="#1b1c1e" stroke-width="2.5"/>
+<text x="750" y="312.0" font-size="18" text-anchor="end" fill="#5f6166">Зарядка конденсатора</text>
+</svg>

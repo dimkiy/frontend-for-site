@@ -1,4 +1,4 @@
-const FILES = ['./', 'index.html', 'style.css', 'data.js', 'app.js'];
+const FILES = ['./', 'index.html', 'style.css', 'data.js', 'app.js', 'img/placeholder.svg'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open('poshagovo').then(cache => cache.addAll(FILES)));
